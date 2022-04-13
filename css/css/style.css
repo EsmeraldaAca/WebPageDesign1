@@ -1,0 +1,111 @@
+.Header {
+    width:100%;
+    height: 150px;
+    background-color: rgb(248, 134, 3);
+    border-radius: 40px 50px 0px 0px;
+}
+
+
+#title {
+    font-family: "yanone kaffeesatz", 'Times New Roman', Times, serif;
+    font-size: 90px;
+    padding-top: 10px;
+}
+
+#logo {
+    margin-left: 50px;
+    margin-right: 220px;
+    float:left;
+}
+
+#menu {
+    padding-left: 500px;
+}
+
+.menu-bar {
+    font-family: "yanone kaffeesatz", 'Times New Roman', Times, serif;
+    font-size: 25px;
+    float: left;
+    margin: 10px 0px 10px 30px;
+    text-align: center;
+}
+
+#middle-content {
+    width: 100%;
+    float: left;
+}
+
+.sidebar {
+    background-color: rgb(252, 164, 0);
+    width:15%;
+    height: 100%;
+    float:left;
+    font-family: "yanone kaffeesatz", 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+}
+
+#sidebar-menu {
+    font-size: 35px;
+    text-align: center;
+    margin: 10px;
+}
+
+.sidebar-title {
+    font-size: 30px;
+    margin: 15px;
+    text-decoration: underline;
+}
+
+.sidebar-items {
+    font-size: 20px;
+    margin: 15px 10px 5px 25px;
+}
+
+.main-content {
+    background-color: rgb(240, 85, 14);
+    width:85%;
+    height: auto;
+    float:right;
+}
+
+.Product-Card {
+    margin: 15px;
+    background-color: #fa8806;
+    width: 500px;
+    height: 300px;
+    float:left;
+    border-color:black;
+    border-style:solid;
+    border-width: 0px 5px 5px 0px;
+    padding:10px;
+    border-radius: 10px;
+}
+.Product-Title {
+    font-size: 40px;
+    Color:Yellow;
+    text-align: center;
+    font-family: "Chivo", 'Times New Roman', Times, serif;
+}
+.Product-Description {
+    font-size: 25px;
+    color:beige;
+    margin: 20px;
+    text-align: center;
+}
+.Price {
+    font-size: 25px;
+    color:rgb(233, 80, 10);
+    float: right;
+    margin:15px;
+    font-family: "Chivo", 'Times New Roman', Times, serif;
+}
+
+.img {
+    float:left;
+}
+
+.footer-bottom {
+    background-color: gray;
+    width:100%;
+    min-height:100px;
+}
